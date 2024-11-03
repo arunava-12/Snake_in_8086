@@ -1,5 +1,3 @@
----
-
 # Snake
 
 This is a clone of the legendary Snake game.
