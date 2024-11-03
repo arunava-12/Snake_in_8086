@@ -1,5 +1,3 @@
-Here's the updated `README.md` with the personal note at the end:
-
 ---
 
 # Snake
