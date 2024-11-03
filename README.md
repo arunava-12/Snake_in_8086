@@ -1,4 +1,4 @@
-# Snake
+# Snake Game in 8086 Assembly Language
 
 This is a clone of the legendary Snake game.
 
